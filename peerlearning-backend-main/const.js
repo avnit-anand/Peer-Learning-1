@@ -22,7 +22,7 @@ module.exports.borderColor = [
 
 
 const { MongoClient } = require('mongodb');
-const url = "mongodb+srv://admin:eNNsgz1lK2bVMQUf@cluster0.xu7bg.mongodb.net/peerlearning?retryWrites=true&w=majority";
+const url = "mongodb+srv://admin:PeerLearning@cluster0.tgwbw4t.mongodb.net/peerlearning?retryWrites=true&w=majority";
 const ops = { useUnifiedTopology: true, useNewUrlParser: true };
 
 

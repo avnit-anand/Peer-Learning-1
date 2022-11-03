@@ -4,7 +4,7 @@ const config = {
   },
   db: {
     DB_URI:
-      "mongodb+srv://admin:eNNsgz1lK2bVMQUf@cluster0.xu7bg.mongodb.net/peerlearning?retryWrites=true&w=majority",
+    "mongodb+srv://admin:PeerLearning@cluster0.tgwbw4t.mongodb.net/peerlearning?retryWrites=true&w=majority",
   },
 };
 
